@@ -46,8 +46,8 @@ Our model significantly improves upon basic implementations through:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/punyamodi/ML-Project---Titanic-Survivability.git
-cd ML-Project---Titanic-Survivability
+git clone https://github.com/punyamodi/Titanic-Survival-Analysis.git
+cd Titanic-Survival-Analysis
 pip install -r requirements.txt
 ```
 
